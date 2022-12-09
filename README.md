@@ -7,8 +7,11 @@ I am a student at the Faculty of Computing and Artificial Intelligence, Benha Un
 Skills:
 * HTML 
 * CSS 
-* Bootstrap 
-* JS 
+* Bootstrap
+* Tailwind css
+* JS
+* TS 
+* Jest 
 * React.JS
 
 <h3 align="left">Languages and Tools:</h3>
